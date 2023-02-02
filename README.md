@@ -1,10 +1,11 @@
 # Sales-Insights-Data-Analysis
 
 ## Problem Statement:
-•	Top 5 customers by customers and sales quantity 
-•	2 Weakest region where sales are declining – Revenue  breakdown by cities – so we add extra discount at that places
-•	Aggregate revenue in last 365 days - Revenue  breakdown by month and year 
-•	Top 5 product by revenue number
+This case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build Tableau dashboard that can give him real time sales insights.
+-	Top 5 customers by customers and sales quantity 
+-	2 Weakest region where sales are declining – Revenue  breakdown by cities – so we add extra discount at that places
+-	Aggregate revenue in last 365 days - Revenue  breakdown by month and year 
+-	Top 5 product by revenue number
 
 ## Aims grid
 The Aim's Grid is a central tool for planning any venture and a must-have for project leaders. This tool helps you collect the most important information about your project on one simple page, laying the foundation for a successful implementation.
