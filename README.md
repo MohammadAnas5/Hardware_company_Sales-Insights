@@ -58,10 +58,10 @@ SELECT product_code,SUM(sales_amount) AS Revenue FROM transactions GROUP BY prod
 ![First Dashboard](https://user-images.githubusercontent.com/85899270/216389249-006d3f31-6b3d-43c2-927e-3bdcd9878f99.png)
 
  
-
+## Feedback From Stakeholders
 Fault1:          
 If are applying multiple filtering, use context filter as well – o/w don’t get full data
-Context filter: You can think of a context filter as being an independent filter. Any other filters you set are dependent filters because they process only the data that passes through the context filter. == We generally use it in multiple filtering
+Context filter: context filter as being an independent filter. Any other filters you set are dependent filters because they process only the data that passes through the context filter. == We generally use it in multiple filtering
 
 
 
