@@ -54,6 +54,7 @@ SELECT product_code,SUM(sales_amount) AS Revenue FROM transactions GROUP BY prod
 
 
 
+![First Dashboard](https://user-images.githubusercontent.com/85899270/216389249-006d3f31-6b3d-43c2-927e-3bdcd9878f99.png)
 
  
 
@@ -67,6 +68,7 @@ Context filter: You can think of a context filter as being an independent filter
 
 ## `Revised Dashboard` 
 
+![Revised-Dashboard](https://user-images.githubusercontent.com/85899270/216389293-f24c46eb-6bf4-4e26-9053-3de3a4ca96cd.png)
 
  
 
